@@ -1,0 +1,71 @@
+table {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    border-collapse: collapse;
+    margin: 20px 15%;
+}
+
+tbody th {
+    padding: 5px;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: Verdana, sans-serif;
+    font-size: 17px;
+}
+
+h2 {
+    color: red;
+    font-family: Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding: 6px;
+    border: 1px #646464 solid;
+    background-color: #d3d3d3;
+    color: black;
+}
+
+a:hover {
+    background-color: #ececec;
+}
+
+p{
+    font-family: Verdana, sans-serif;
+    font-size: 17px;
+}
+
+.btn {
+    color: white;
+    font-size: 16px;
+    background-color: black;
+    border-radius: 0.6rem;
+    border: none;
+}
+
+.btn:hover {
+    color: white;
+    font-size: 16px;
+    background-color: #616161
+}
+
+.inp_sk {
+    height: 25px;
+    width: 400px;
+    border: 1px #616161 solid;
+    border-radius: 0.6rem;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.add_sk {
+    height: auto;
+    display: block;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+}
